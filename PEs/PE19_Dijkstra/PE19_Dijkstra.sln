@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE19_Dijkstra", "PE19_Dijkstra\PE19_Dijkstra.csproj", "{FE42AC8D-0965-4FB5-923B-43A92A64EA18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE42AC8D-0965-4FB5-923B-43A92A64EA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE42AC8D-0965-4FB5-923B-43A92A64EA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE42AC8D-0965-4FB5-923B-43A92A64EA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE42AC8D-0965-4FB5-923B-43A92A64EA18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E53033-3F7A-4831-92C0-F4DDF727741F}
+	EndGlobalSection
+EndGlobal

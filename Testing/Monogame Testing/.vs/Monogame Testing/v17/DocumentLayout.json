@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Testing\\Monogame Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE05081-9499-4C9F-9722-640A9433DF1C}|Monogame Testing.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\testing\\monogame testing\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE05081-9499-4C9F-9722-640A9433DF1C}|Monogame Testing.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Testing\\Monogame Testing\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Testing\\Monogame Testing\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:26:06.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

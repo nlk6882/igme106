@@ -1,2 +1,0 @@
-Hi, I would like one basic burger please!/That's just a bun-lettuce-meat-ketchup-bun burger, right?/You've shot me... yet I still want my basic burger.
-bun,lettuce,meat,ketchup,bun

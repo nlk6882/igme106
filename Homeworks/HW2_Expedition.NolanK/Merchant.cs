@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HW2_Expedition.NolanK
+{
+    internal class Merchant : PartyMember
+    {
+        //fields
+        string name;
+        Roles charType;
+
+        //properties
+
+        //constructor
+        public Merchant(string name, int health, Roles charType) : base(health, name, charType)
+        {
+
+        }
+
+        //methods
+
+        //method that overrides from parent to handle the special attack
+        internal void specialAbility(List<Item> items)
+        {
+
+        }
+
+        internal override void specialAbility()
+        {
+
+        }
+
+    }
+}

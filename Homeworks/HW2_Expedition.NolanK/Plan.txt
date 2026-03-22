@@ -1,0 +1,29 @@
+PARTY MEMBER RELATED REQUIREMENTS:
+	* enum is used to define party member roles
+	* 4 roles in your party
+	* members have name, health, and ability, and share a pool of money
+	* "specific party members can be retrieved from the party by role via a get indexer property"
+
+ITEM COLLECTION AND USAGE REQUIREMENTS:
+	* inventory starts empty
+	* all items have a name, price, and description
+	* two items should be consumables (food, medicine)
+	* one item is non consumable (tool, valuable)
+
+TOWN / SHOP REQUIREMENTS:
+	* sequence of towns to visit and the assosiated items for sale there is loaded from a file
+
+CORE GAMEPLAY LOOP REQUIREMENTS:
+	* the party visits a new town every day
+	* random events effect gameplay, destroying recources or damaging party members
+	* players can decider which party member performs their "extra role" once per day
+	* player wins if at least one party member reaches the final town, else they lose
+
+================================================================================================================================
+
+STUB OUT:
+	* program class, creates a game instance and handels the flow of the game
+	* game class, contians fields for money, living members int, and enum of party members
+	* parent class basicPartyMem with children relating to the different classes containing the unique abilities
+	* town class that will contain a description of the town, items for sale there, ect
+	* event class (or method, tbd) that contains random that contains random events to be called, along with their effects

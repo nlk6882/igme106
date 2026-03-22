@@ -1,0 +1,15 @@
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\bin\Debug\net8.0\HW2_Expedition.NolanK.exe
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\bin\Debug\net8.0\HW2_Expedition.NolanK.deps.json
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\bin\Debug\net8.0\HW2_Expedition.NolanK.runtimeconfig.json
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\bin\Debug\net8.0\HW2_Expedition.NolanK.dll
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\bin\Debug\net8.0\HW2_Expedition.NolanK.pdb
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\obj\Debug\net8.0\HW2_Expedition.NolanK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\obj\Debug\net8.0\HW2_Expedition.NolanK.AssemblyInfoInputs.cache
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\obj\Debug\net8.0\HW2_Expedition.NolanK.AssemblyInfo.cs
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\obj\Debug\net8.0\HW2_Expedition.NolanK.csproj.CoreCompileInputs.cache
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\obj\Debug\net8.0\HW2_Expedition.NolanK.sourcelink.json
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\obj\Debug\net8.0\HW2_Expedition.NolanK.dll
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\obj\Debug\net8.0\refint\HW2_Expedition.NolanK.dll
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\obj\Debug\net8.0\HW2_Expedition.NolanK.pdb
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\obj\Debug\net8.0\HW2_Expedition.NolanK.genruntimeconfig.cache
+C:\Users\nolan\Source\Repos\igme106-2245-ind-NolanK68\Homeworks\HW2_Expedition.NolanK\obj\Debug\net8.0\ref\HW2_Expedition.NolanK.dll

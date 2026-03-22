@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4_Monogame.NolanK", "HW4_Monogame.NolanK\HW4_Monogame.NolanK.csproj", "{19BDA44D-3F76-4B81-8574-83E04B3B7CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19BDA44D-3F76-4B81-8574-83E04B3B7CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BDA44D-3F76-4B81-8574-83E04B3B7CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BDA44D-3F76-4B81-8574-83E04B3B7CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BDA44D-3F76-4B81-8574-83E04B3B7CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2BCDDC-21FE-47DF-8282-ED6AA7909633}
+	EndGlobalSection
+EndGlobal

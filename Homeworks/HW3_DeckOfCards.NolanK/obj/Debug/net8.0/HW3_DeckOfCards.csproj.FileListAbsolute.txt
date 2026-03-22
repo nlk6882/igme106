@@ -1,0 +1,15 @@
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\bin\Debug\net8.0\HW3_DeckOfCards.exe
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\bin\Debug\net8.0\HW3_DeckOfCards.deps.json
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\bin\Debug\net8.0\HW3_DeckOfCards.runtimeconfig.json
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\bin\Debug\net8.0\HW3_DeckOfCards.dll
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\bin\Debug\net8.0\HW3_DeckOfCards.pdb
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\obj\Debug\net8.0\HW3_DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\obj\Debug\net8.0\HW3_DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\obj\Debug\net8.0\HW3_DeckOfCards.AssemblyInfo.cs
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\obj\Debug\net8.0\HW3_DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\obj\Debug\net8.0\HW3_DeckOfCards.sourcelink.json
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\obj\Debug\net8.0\HW3_DeckOfCards.dll
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\obj\Debug\net8.0\refint\HW3_DeckOfCards.dll
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\obj\Debug\net8.0\HW3_DeckOfCards.pdb
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\obj\Debug\net8.0\HW3_DeckOfCards.genruntimeconfig.cache
+C:\Users\nolan\source\repos\igme106-2245-ind-NolanK68\Homeworks\HW3_DeckOfCards.NolanK\obj\Debug\net8.0\ref\HW3_DeckOfCards.dll

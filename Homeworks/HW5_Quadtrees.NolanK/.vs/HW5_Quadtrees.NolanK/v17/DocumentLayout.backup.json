@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW5_Quadtrees.NolanK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89647989-8161-4BCC-B970-E7A4F9E1ED5D}|HW5_Quadtrees.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw5_quadtrees.nolank\\quadtreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89647989-8161-4BCC-B970-E7A4F9E1ED5D}|HW5_Quadtrees.NolanK.csproj|solutionrelative:quadtreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89647989-8161-4BCC-B970-E7A4F9E1ED5D}|HW5_Quadtrees.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw5_quadtrees.nolank\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89647989-8161-4BCC-B970-E7A4F9E1ED5D}|HW5_Quadtrees.NolanK.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89647989-8161-4BCC-B970-E7A4F9E1ED5D}|HW5_Quadtrees.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw5_quadtrees.nolank\\shapebatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89647989-8161-4BCC-B970-E7A4F9E1ED5D}|HW5_Quadtrees.NolanK.csproj|solutionrelative:shapebatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89647989-8161-4BCC-B970-E7A4F9E1ED5D}|HW5_Quadtrees.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw5_quadtrees.nolank\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89647989-8161-4BCC-B970-E7A4F9E1ED5D}|HW5_Quadtrees.NolanK.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShapeBatch.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW5_Quadtrees.NolanK\\ShapeBatch.cs",
+              "RelativeDocumentMoniker": "ShapeBatch.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW5_Quadtrees.NolanK\\ShapeBatch.cs",
+              "RelativeToolTip": "ShapeBatch.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:10:55.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuadTreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW5_Quadtrees.NolanK\\QuadTreeNode.cs",
+              "RelativeDocumentMoniker": "QuadTreeNode.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW5_Quadtrees.NolanK\\QuadTreeNode.cs*",
+              "RelativeToolTip": "QuadTreeNode.cs*",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAwwLUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:10:54.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW5_Quadtrees.NolanK\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameObject.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW5_Quadtrees.NolanK\\GameObject.cs",
+              "RelativeToolTip": "GameObject.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:10:52.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW5_Quadtrees.NolanK\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW5_Quadtrees.NolanK\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:10:52.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

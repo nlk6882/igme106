@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW3_DeckOfCards.NolanK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8516474F-1323-447D-A8E8-D280EB990D29}|HW3_DeckOfCards.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw3_deckofcards.nolank\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8516474F-1323-447D-A8E8-D280EB990D29}|HW3_DeckOfCards.csproj|solutionrelative:deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8516474F-1323-447D-A8E8-D280EB990D29}|HW3_DeckOfCards.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw3_deckofcards.nolank\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8516474F-1323-447D-A8E8-D280EB990D29}|HW3_DeckOfCards.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8516474F-1323-447D-A8E8-D280EB990D29}|HW3_DeckOfCards.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw3_deckofcards.nolank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8516474F-1323-447D-A8E8-D280EB990D29}|HW3_DeckOfCards.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW3_DeckOfCards.NolanK\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW3_DeckOfCards.NolanK\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwGMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:30:43.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW3_DeckOfCards.NolanK\\Card.cs",
+              "RelativeDocumentMoniker": "Card.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW3_DeckOfCards.NolanK\\Card.cs",
+              "RelativeToolTip": "Card.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:30:42.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW3_DeckOfCards.NolanK\\Deck.cs",
+              "RelativeDocumentMoniker": "Deck.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW3_DeckOfCards.NolanK\\Deck.cs",
+              "RelativeToolTip": "Deck.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAowN0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:30:40.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

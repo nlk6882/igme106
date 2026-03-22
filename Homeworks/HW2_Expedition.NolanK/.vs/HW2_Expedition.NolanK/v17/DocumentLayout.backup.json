@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw2_expedition.nolank\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw2_expedition.nolank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw2_expedition.nolank\\plan.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|solutionrelative:plan.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw2_expedition.nolank\\smartconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|solutionrelative:smartconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw2_expedition.nolank\\partymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|solutionrelative:partymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw2_expedition.nolank\\town\u0026shopdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|solutionrelative:town\u0026shopdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw2_expedition.nolank\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw2_expedition.nolank\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|solutionrelative:tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw2_expedition.nolank\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|solutionrelative:fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw2_expedition.nolank\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|solutionrelative:merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|c:\\users\\nolan\\source\\repos\\igme106-2245-ind-nolank68\\homeworks\\hw2_expedition.nolank\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93DA990-58F2-48FD-8139-51B755DEBF40}|HW2_Expedition.NolanK.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plan.txt",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Plan.txt",
+              "RelativeDocumentMoniker": "Plan.txt",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Plan.txt",
+              "RelativeToolTip": "Plan.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-19T19:33:49.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:51:02.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:51:00.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartyMember.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\PartyMember.cs",
+              "RelativeDocumentMoniker": "PartyMember.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\PartyMember.cs",
+              "RelativeToolTip": "PartyMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:50:56.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Tank.cs",
+              "RelativeDocumentMoniker": "Tank.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Tank.cs",
+              "RelativeToolTip": "Tank.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:51:01.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Merchant.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Merchant.cs",
+              "RelativeDocumentMoniker": "Merchant.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Merchant.cs",
+              "RelativeToolTip": "Merchant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:06:34.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fighter.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Fighter.cs",
+              "RelativeDocumentMoniker": "Fighter.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Fighter.cs",
+              "RelativeToolTip": "Fighter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:03:38.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Doctor.cs",
+              "RelativeDocumentMoniker": "Doctor.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Doctor.cs",
+              "RelativeToolTip": "Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:02:31.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:51:02.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmartConsole.cs",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\SmartConsole.cs",
+              "RelativeDocumentMoniker": "SmartConsole.cs",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\SmartConsole.cs",
+              "RelativeToolTip": "SmartConsole.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:33:24.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Town\u0026ShopData.txt",
+              "DocumentMoniker": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Town\u0026ShopData.txt",
+              "RelativeDocumentMoniker": "Town\u0026ShopData.txt",
+              "ToolTip": "C:\\Users\\nolan\\source\\repos\\igme106-2245-ind-NolanK68\\Homeworks\\HW2_Expedition.NolanK\\Town\u0026ShopData.txt",
+              "RelativeToolTip": "Town\u0026ShopData.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-19T19:43:53.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

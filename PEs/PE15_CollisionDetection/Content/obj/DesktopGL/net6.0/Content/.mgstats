@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nolan/source/repos/igme106-2245-ind-NolanK68/PEs/PE15_CollisionDetection/Content/Arial20.spritefont","C:/Users/nolan/source/repos/igme106-2245-ind-NolanK68/PEs/PE15_CollisionDetection/Content/bin/DesktopGL/Content/Arial20.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37922,0.1739155
+"C:/Users/nolan/source/repos/igme106-2245-ind-NolanK68/PEs/PE15_CollisionDetection/Content/circle.png","C:/Users/nolan/source/repos/igme106-2245-ind-NolanK68/PEs/PE15_CollisionDetection/Content/bin/DesktopGL/Content/circle.xnb","TextureProcessor","Texture2DContent",8807,1000085,0.0429791
+"C:/Users/nolan/source/repos/igme106-2245-ind-NolanK68/PEs/PE15_CollisionDetection/Content/square.png","C:/Users/nolan/source/repos/igme106-2245-ind-NolanK68/PEs/PE15_CollisionDetection/Content/bin/DesktopGL/Content/square.xnb","TextureProcessor","Texture2DContent",1448,10085,0.00289

@@ -1,0 +1,4 @@
+A,4,True,1,1
+B,5,False,2,6
+C,5,True,9,5
+D,2,False,8,0

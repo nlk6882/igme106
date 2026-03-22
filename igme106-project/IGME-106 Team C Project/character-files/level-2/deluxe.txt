@@ -1,0 +1,2 @@
+Hi, I would like a basic burger with/onion under the top bun. Thanks!/I will kill you with my last breath... after I get this burger.
+bun,lettuce,meat,ketchup,onion,bun

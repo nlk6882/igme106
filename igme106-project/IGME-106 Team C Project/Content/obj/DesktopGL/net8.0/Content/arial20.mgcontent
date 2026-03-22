@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/nolan/Source/Repos/igme106-project/IGME-106 Team C Project/Content/arial20.spritefont</SourceFile>
+  <SourceTime>2025-04-27T22:57:21.9981391-04:00</SourceTime>
+  <DestFile>C:/Users/nolan/Source/Repos/igme106-project/IGME-106 Team C Project/Content/bin/DesktopGL/Content/arial20.xnb</DestFile>
+  <DestTime>2025-04-27T22:58:00.6030199-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-08-16T13:05:56-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-08-16T13:05:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
